@@ -1,2 +1,2 @@
-# names
+# Names
 Input a name and see how old you are. 
